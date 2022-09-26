@@ -34,7 +34,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "heroku-logger": "^0.3.1",
-    "node-mailjet": "^3.2.1",
+    "node-mailjet": "^3.4.1",
     "nodemon": "^1.17.5",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
